@@ -40,3 +40,8 @@ Final schematic
 
 3d viewer of keyboard PCB
 <img width="688" height="429" alt="image" src="https://github.com/user-attachments/assets/321de8f3-14e8-4435-b135-67d80b080676" />
+
+
+Fusion 360 case 
+<img width="1676" height="1226" alt="image" src="https://github.com/user-attachments/assets/81646384-913e-41b2-b4f0-20c7c8ac0a7e" />
+
