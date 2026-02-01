@@ -27,3 +27,8 @@ Battery Jack
 Battery 
 [Battery]([url](https://www.amazon.com/Luuzkla-LIP1522-Replacement-PlayStation-Dualshock/dp/B0CZRBL9NL/ref=sr_1_1?crid=1YHTFYXR0XAGD&dib=eyJ2IjoiMSJ9.pjSCGZev6xe-7HqroX4lZY_NOfM3UrZVQ4zHYDmKITMsKNurUyFcMmsrX7DlnLqxEyyRALIoa74BzF0PookfRMdWYwfqdosoBcC3AvU3QJ2XLPjIKgILjibJOu46TUlOnSjHYPYqj0V9VJ7Srnf4QBhq8-E70WNfjXwyfORNtHNxE-EHSywzW5DZm_olaw83Z183kfhKm69eVEBEYO0QUmTrb0JnSUqa1s9h2PSVCao.PbHUBNP7EMTD8uiohk6_qw4_SSFfqlgvWZFXerjMWJc&dib_tag=se&keywords=batteryreplacement+for+play+station+controller&qid=1769360774&sprefix=battertreplacement+for+play+station+controller%2Caps%2C112&sr=8-1)) $9
 
+
+Bill of Parts(Working Links):
+
+[https://docs.google.com/document/d/1lCCucy_CAM63LU3dS7evQFX00JXux3EyqqpWvLDIWzI/edit?usp=sharing](url)
+
