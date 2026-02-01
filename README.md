@@ -30,5 +30,5 @@ Battery
 
 Bill of Parts(Working Links):
 
-[https://docs.google.com/document/d/1lCCucy_CAM63LU3dS7evQFX00JXux3EyqqpWvLDIWzI/edit?usp=sharing](url)
+Doc[https://docs.google.com/document/d/1lCCucy_CAM63LU3dS7evQFX00JXux3EyqqpWvLDIWzI/edit?usp=sharing](url)
 
