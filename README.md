@@ -32,4 +32,11 @@ Bill of Parts(Working Links):
 
 [Open the design document](https://docs.google.com/document/d/1lCCucy_CAM63LU3dS7evQFX00JXux3EyqqpWvLDIWzI/edit?usp=sharing)
 
+Final PCB
+<img width="1079" height="555" alt="image" src="https://github.com/user-attachments/assets/8872aeed-7df1-4ed0-b21a-199ced419e77" />
 
+Final schematic
+<img width="1101" height="944" alt="image" src="https://github.com/user-attachments/assets/3ba6f84d-8185-4dc1-b72b-08048aee8195" />
+
+3d viewer of keyboard PCB
+<img width="688" height="429" alt="image" src="https://github.com/user-attachments/assets/321de8f3-14e8-4435-b135-67d80b080676" />
