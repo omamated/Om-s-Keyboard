@@ -32,6 +32,19 @@ Bill of Parts(Working Links):
 
 [Open the design document](https://docs.google.com/document/d/1lCCucy_CAM63LU3dS7evQFX00JXux3EyqqpWvLDIWzI/edit?usp=sharing)
 
+
+The Process
+For tutorials I deceded to use 
+[https://www.youtube.com/watch?v=7UXsD7nSfDY]([url](https://www.youtube.com/watch?v=7UXsD7nSfDY))
+
+and 
+
+[scotto keebs]([url](https://www.youtube.com/watch?v=8WXpGTIbxlQ&t=900s))
+
+
+
+
+
 Final PCB
 <img width="1079" height="555" alt="image" src="https://github.com/user-attachments/assets/8872aeed-7df1-4ed0-b21a-199ced419e77" />
 
