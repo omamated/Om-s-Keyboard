@@ -40,7 +40,7 @@ For tutorials I deceded to use
 
 and 
 
-[scottokeebs]([url]https://www.youtube.com/watch?v=8WXpGTIbxlQ&t=900s)
+[scottokeebs](https://www.youtube.com/watch?v=8WXpGTIbxlQ&t=900s)
 
 
 
