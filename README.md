@@ -36,6 +36,11 @@ Bill of Parts(Working Links):
 The Process
 For tutorials I deceded to use
 
+It took me ~10 hours to complete the PCB and the case, overall I am happy so far!
+
+I had some experience with Fusion before which helped me design the case, in Kicad however I was like a complete beginner but the macropad work I did and the youtube videos helped me
+
+
 [https://www.youtube.com/watch?v=7UXsD7nSfDY](https://www.youtube.com/watch?v=7UXsD7nSfDY)
 
 and 
