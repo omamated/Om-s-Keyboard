@@ -36,11 +36,11 @@ Bill of Parts(Working Links):
 The Process
 For tutorials I deceded to use
 
-[https://www.youtube.com/watch?v=7UXsD7nSfDY]((https://www.youtube.com/watch?v=7UXsD7nSfDY))
+[https://www.youtube.com/watch?v=7UXsD7nSfDY](https://www.youtube.com/watch?v=7UXsD7nSfDY)
 
 and 
 
-[scotto keebs]((https://www.youtube.com/watch?v=8WXpGTIbxlQ&t=900s))
+[scottokeebs]([url]https://www.youtube.com/watch?v=8WXpGTIbxlQ&t=900s)
 
 
 
