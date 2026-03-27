@@ -38,6 +38,12 @@ Final schematic
 Fusion 360 case 
 <img width="1676" height="1226" alt="image" src="https://github.com/user-attachments/assets/81646384-913e-41b2-b4f0-20c7c8ac0a7e" />
 
+I also added screw holes and made some changes with the case.
+
+<img width="538" height="1015" alt="image" src="https://github.com/user-attachments/assets/4c0c0826-0cdc-451e-98e2-32e42fc9eee5" />
+
+<img width="685" height="1231" alt="image" src="https://github.com/user-attachments/assets/58bb4eb2-2a5e-4209-b814-94c344764b6b" />
+
 
 
 
