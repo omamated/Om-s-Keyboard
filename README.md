@@ -1,21 +1,16 @@
-# Om-s-Keyboard
-I am going to make a "magic" keyboard. It will be a thin profile because I want it to go with my dad's sleek macbook that I use sometimes. In this keyboard, I plan to have a Nice!Nano, so its completely bluetooth. It will also contain hot swap pockets for me to switch the keyboard switches if I ever want to.
+This project is a wireless, sleek keyboard meant to match the Apple “Magic” Keyboard. I want it to match my dad’s MacBook Pro. The keyboard will use a Nice!Nano V2, hot-swap sockets, low-profile switches and keycaps, and a battery strong enough to last about a month.
 
- Planned assembly, once everything is soldered it will be assembled using glue in the case and the keycaps will also help hold everything together. I am using a nicenano as this will be wireless and it has the best support.
+I will use this keyboard with ZMK firmware, and it will connect via Bluetooth. This allows it to easily connect to multiple devices like my phone, tablet, or PC.
 
-
-Bill of Parts(Working Links):
-
-[Open the design document](https://docs.google.com/document/d/1lCCucy_CAM63LU3dS7evQFX00JXux3EyqqpWvLDIWzI/edit?usp=sharing)
-
+I made this because I’ve been using a very basic keyboard and wanted something more sleek and minimalistic. I also decided to build my own so I could learn more about PCB design and improve my skills with tools like KiCad. Another reason I made this is to use it with a laptop I plan to build during Hack Club’s Fallout(why I chose a 60% layout).
 
 The Process
-For tutorials I deceded to use
 
-It took me ~10 hours to complete the PCB and the case, overall I am happy so far!
+For tutorials, I used YouTube and documentation to guide me through the process.
 
-I had some experience with Fusion before which helped me design the case, in Kicad however I was like a complete beginner but the macropad work I did and the youtube videos helped me
+It took me about 10 hours to complete the PCB and the case, and overall I’m happy with how it turned out so far.
 
+I had some experience with Fusion 360, which helped me design the case. However, in KiCad I was basically a beginner, but my previous macropad project and the tutorials helped me learn as I went
 
 [https://www.youtube.com/watch?v=7UXsD7nSfDY](https://www.youtube.com/watch?v=7UXsD7nSfDY)
 
@@ -35,14 +30,16 @@ Final schematic
 3d viewer of keyboard PCB
 <img width="688" height="429" alt="image" src="https://github.com/user-attachments/assets/321de8f3-14e8-4435-b135-67d80b080676" />
 
-Fusion 360 case 
+Fusion 360 case V0
 <img width="1676" height="1226" alt="image" src="https://github.com/user-attachments/assets/81646384-913e-41b2-b4f0-20c7c8ac0a7e" />
 
-I also added screw holes and made some changes with the case.
+I also added screw holes and made some changes with the case. V1
 
 <img width="538" height="1015" alt="image" src="https://github.com/user-attachments/assets/4c0c0826-0cdc-451e-98e2-32e42fc9eee5" />
 
 <img width="685" height="1231" alt="image" src="https://github.com/user-attachments/assets/58bb4eb2-2a5e-4209-b814-94c344764b6b" />
+
+Fully Assembeled keyboard with new CAD
 
 
 
