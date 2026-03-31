@@ -1,10 +1,11 @@
+
 This project is a wireless, sleek keyboard meant to match the Apple “Magic” Keyboard. I want it to match my dad’s MacBook Pro. The keyboard will use a Nice!Nano V2, hot-swap sockets, low-profile switches and keycaps, and a battery strong enough to last about a month.
 
 I will use this keyboard with ZMK firmware, and it will connect via Bluetooth. This allows it to easily connect to multiple devices like my phone, tablet, or PC.
 
 I made this because I’ve been using a very basic keyboard and wanted something more sleek and minimalistic. I also decided to build my own so I could learn more about PCB design and improve my skills with tools like KiCad. Another reason I made this is to use it with a laptop I plan to build during Hack Club’s Fallout(why I chose a 60% layout).
 
-The Process
+##The Process
 
 For tutorials, I used YouTube and documentation to guide me through the process.
 
@@ -19,7 +20,7 @@ and
 [scottokeebs](https://www.youtube.com/watch?v=8WXpGTIbxlQ&t=900s)
 
 
-
+##Images
 
 Final PCB
 <img width="1079" height="555" alt="image" src="https://github.com/user-attachments/assets/8872aeed-7df1-4ed0-b21a-199ced419e77" />
@@ -40,7 +41,9 @@ I also added screw holes and made some changes with the case. V1
 <img width="685" height="1231" alt="image" src="https://github.com/user-attachments/assets/58bb4eb2-2a5e-4209-b814-94c344764b6b" />
 
 Fully Assembeled keyboard with new CAD
+<img width="1408" height="1320" alt="image" src="https://github.com/user-attachments/assets/51456c9c-abfc-4898-9f5b-d3337170d66a" />
 
+<img width="1480" height="846" alt="image" src="https://github.com/user-attachments/assets/e4cb79e2-87b8-4a14-9595-23830613cd20" />
 
 
 
