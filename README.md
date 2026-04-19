@@ -48,6 +48,8 @@ Fully Assembeled keyboard with new CAD
 --Zine Page---
 [Wireless “Magic” Keyboard By Om Patel (14, Texas, USA)-1.pdf](https://github.com/user-attachments/files/26876961/Wireless.Magic.Keyboard.By.Om.Patel.14.Texas.USA.-1.pdf)
 
+<img width="674" height="1035" alt="image" src="https://github.com/user-attachments/assets/180785c9-4c00-40b1-9e1e-3ceaea1d31db" />
+
 
 
 ## Bill of Materials
