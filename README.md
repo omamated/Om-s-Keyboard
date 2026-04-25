@@ -66,6 +66,6 @@ Fully Assembeled keyboard with new CAD
 | Hotswap pockets | $12 | [Link](https://typeractive.xyz/products/hotswap-sockets?variant=45742200324327) | Typeractive |
 | Powerswitch | $1.50 | [Link](https://typeractive.xyz/products/power-switch) | Typeractive |
 | Battery Jack | $1 | [Link](https://typeractive.xyz/products/battery-jack?variant=46024892186855) | Typeractive |
-| Battery | $9 | [Link](https://www.amazon.com/TAYUZH-Replacement-Controller-PlayStation-Controllers/dp/B0DFCJYZC9/ref=sr_1_2?crid=3G1QMDS7U07KW&dib=eyJ2IjoiMSJ9.33nU5Tcwh5k8zpDWXEthdU_gfwyXQywdDZt05xVEZDjyL02) | |
+| Battery | $9 | [Link](https://www.aliexpress.us/item/3256809148927180.html?src=google&gatewayAdapt=glo2usa) | AliExpress |
 | **Total** | **$100** | | |
 
