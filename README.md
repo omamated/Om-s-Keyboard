@@ -1,9 +1,10 @@
 
-This project is a wireless, sleek keyboard meant to match the Apple "Magic" Keyboard. I want it to match my dad's MacBook Pro. The keyboard will use a Nice!Nano V2, hot-swap sockets, low-profile[...]
+
+This project is a wireless, sleek keyboard meant to match the Apple "Magic" Keyboard. I want it to match my dad's MacBook Pro. The keyboard will use a Nice!Nano V2, hot-swap sockets, low-profile switches, and a custom PCB designed in KiCad.
 
 I will use this keyboard with ZMK firmware, and it will connect via Bluetooth. This allows it to easily connect to multiple devices like my phone, tablet, or PC.
 
-I made this because I've been using a very basic keyboard and wanted something more sleek and minimalistic. I also decided to build my own so I could learn more about PCB design and improve my sk[...]
+I made this because I've been using a very basic keyboard and wanted something more sleek and minimalistic. I also decided to build my own so I could learn more about PCB design and improve my skills in the process.
 
 ##The Process
 
@@ -58,12 +59,13 @@ Fully Assembeled keyboard with new CAD
 
 | Item | Cost | Link | Store |
 |------|------|------|-------|
-| Low Profile Switches | $15 | [Link](https://mechanicalkeyboards.com/products/ttc-low-profile-blue-40g-clicky?variant=47416965202220&country=US&currency=USD&utm_medium=product_sync&utm_source=google&[...]
+| Low Profile Switches | $15 | [Link](https://mechanicalkeyboards.com/products/ttc-low-profile-blue-40g-clicky?variant=47416965202220&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_conten) | |
 | Nice!NanoV2 | $25 | [Link](https://typeractive.xyz/products/nice-nano) | Typeractive |
 | Diodes | $6 | [Link](https://typeractive.xyz/products/smd-diodes) | Typeractive |
 | Custom Keyboard PCB | $30 | [JLCPCB.com](https://jlcpcb.com) | JLCPCB |
 | Hotswap pockets | $12 | [Link](https://typeractive.xyz/products/hotswap-sockets?variant=45742200324327) | Typeractive |
 | Powerswitch | $1.50 | [Link](https://typeractive.xyz/products/power-switch) | Typeractive |
 | Battery Jack | $1 | [Link](https://typeractive.xyz/products/battery-jack?variant=46024892186855) | Typeractive |
-| Battery | $9 | [Link](https://www.aliexpress.us/item/3256809148927180.html?src=google&gatewayAdapt=glo2usa) | AliExpress |
+| Battery | $9 | [Link](https://www.amazon.com/TAYUZH-Replacement-Controller-PlayStation-Controllers/dp/B0DFCJYZC9/ref=sr_1_2?crid=3G1QMDS7U07KW&dib=eyJ2IjoiMSJ9.33nU5Tcwh5k8zpDWXEthdU_gfwyXQywdDZt05xVEZDjyL02) | |
 | **Total** | **$100** | | |
+
