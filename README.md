@@ -1,18 +1,20 @@
 
 
-This project is a wireless, sleek keyboard meant to match the Apple "Magic" Keyboard. I want it to match my dad's MacBook Pro. The keyboard will use a Nice!Nano V2, hot-swap sockets, low-profile switches, and a custom PCB designed in KiCad.
+This project is a wireless, sleek keyboard meant to match the Apple "Magic" Keyboard. I want it to match my dad's MacBook Pro. The keyboard will use a Nice!Nano V2, hot-swap sockets, low-profile switches, and a custom PCB.
+
 https://github.com/omamated/Om-s-Keyboard/tree/main
+
 I will use this keyboard with ZMK firmware, and it will connect via Bluetooth. This allows it to easily connect to multiple devices like my phone, tablet, or PC.
 
-I made this because I've been using a very basic keyboard and wanted something more sleek and minimalistic. I also decided to build my own so I could learn more about PCB design and improve my skills in the process.
+I made this because I've been using a very basic keyboard and wanted something more sleek and minimalistic. I also decided to build my own so I could learn more about PCB design and improve my skills.
 
-##The Process
+## The Process
 
 For tutorials, I used YouTube and documentation to guide me through the process.
 
 It took me about 10 hours to complete the PCB and the case, and overall I'm happy with how it turned out so far.
 
-I had some experience with Fusion 360, which helped me design the case. However, in KiCad I was basically a beginner, but my previous macropad project and the tutorials helped me learn as I went
+I had some experience with Fusion 360, which helped me design the case. However, in KiCad I was basically a beginner, but my previous macropad project and the tutorials helped me learn as I went.
 
 [https://www.youtube.com/watch?v=7UXsD7nSfDY](https://www.youtube.com/watch?v=7UXsD7nSfDY)
 
@@ -21,7 +23,7 @@ and
 [scottokeebs](https://www.youtube.com/watch?v=8WXpGTIbxlQ&t=900s)
 
 
-##Images
+## Images
 
 Final PCB
 <img width="1079" height="555" alt="image" src="https://github.com/user-attachments/assets/8872aeed-7df1-4ed0-b21a-199ced419e77" />
@@ -49,15 +51,16 @@ Fully Assembeled keyboard with new CAD
 <img width="674" height="1035" alt="image" src="https://github.com/user-attachments/assets/180785c9-4c00-40b1-9e1e-3ceaea1d31db" />
 
 
-
 ## Bill of Materials
 
-Low Profile Switches	$15	https://mechanicalkeyboards.com/products/ttc-low-profile-blue-40g-clicky?variant=47416965202220&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoonDNgW-TP2c7nvuKg1DvcwzDCLngb8ecIFVe2HGHIXSLj5jAZudmE&com_cvv=8fb3d522dc163aeadb66e08cd7450cbbdddc64c6cf2e8891f6d48747c6d56d2c	Mechanical Keyboards	80(only packs of ten)
-Nice!NanoV2	$25	https://typeractive.xyz/products/nice-nano	Typeractive	1
-Diodes	$6	https://typeractive.xyz/products/smd-diodes	Typeractive	80(only packs of ten)
-Custom Keyboard PCB	$30	Jlcpcb.com	JLCPCB	1 (Minimum order is 5 though)
-Hotswap pockets	$12	https://typeractive.xyz/products/hotswap-sockets?variant=45742200324327	Typeractive	80
-Powerswitch	$1.50	https://typeractive.xyz/products/power-switch	Typeractive	1 (minimum order is 2)
-Battery Jack	$1	https://typeractive.xyz/products/battery-jack?variant=46024892186855	Typeractive	1 (minimum order is 2)
-Battery 	$7	,https://www.aliexpress.us/item/3256809148927180.html?src=google&gatewayAdapt=glo2usa	Aliexpress	1
-Total	$98			
+| Item | Cost | Link | Store | Quantity |
+|------|------|------|-------|----------|
+| Low Profile Switches | $15 | [Link](https://mechanicalkeyboards.com/products/ttc-low-profile-blue-40g-clicky?variant=47416965202220&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=shopping) | Mechanical Keyboards | 1 |
+| Nice!NanoV2 | $25 | [Link](https://typeractive.xyz/products/nice-nano) | Typeractive | 1 |
+| Diodes | $6 | [Link](https://typeractive.xyz/products/smd-diodes) | Typeractive | 80 (only packs of ten) |
+| Custom Keyboard PCB | $30 | [JLCPCB](https://jlcpcb.com) | JLCPCB | 1 (Minimum order is 5) |
+| Hotswap pockets | $12 | [Link](https://typeractive.xyz/products/hotswap-sockets?variant=45742200324327) | Typeractive | 80 |
+| Powerswitch | $1.50 | [Link](https://typeractive.xyz/products/power-switch) | Typeractive | 1 (minimum order is 2) |
+| Battery Jack | $1 | [Link](https://typeractive.xyz/products/battery-jack?variant=46024892186855) | Typeractive | 1 (minimum order is 2) |
+| Battery | $7 | [Link](https://www.aliexpress.us/item/3256809148927180.html?src=google&gatewayAdapt=glo2usa) | AliExpress | 1 |
+| **Total** | **$98** | | | |
