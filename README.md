@@ -1,7 +1,7 @@
 
 
 This project is a wireless, sleek keyboard meant to match the Apple "Magic" Keyboard. I want it to match my dad's MacBook Pro. The keyboard will use a Nice!Nano V2, hot-swap sockets, low-profile switches, and a custom PCB designed in KiCad.
-
+https://github.com/omamated/Om-s-Keyboard/tree/main
 I will use this keyboard with ZMK firmware, and it will connect via Bluetooth. This allows it to easily connect to multiple devices like my phone, tablet, or PC.
 
 I made this because I've been using a very basic keyboard and wanted something more sleek and minimalistic. I also decided to build my own so I could learn more about PCB design and improve my skills in the process.
@@ -31,9 +31,6 @@ Final schematic
 
 3d viewer of keyboard PCB
 <img width="688" height="429" alt="image" src="https://github.com/user-attachments/assets/321de8f3-14e8-4435-b135-67d80b080676" />
-
-Fusion 360 case V0
-<img width="1676" height="1226" alt="image" src="https://github.com/user-attachments/assets/81646384-913e-41b2-b4f0-20c7c8ac0a7e" />
 
 I also added screw holes and made some changes with the case. V1
 
