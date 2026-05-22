@@ -1,6 +1,6 @@
 
 
-This project is a wireless, sleek keyboard meant to match the Apple "Magic" Keyboard. I want it to match my dad's MacBook Pro. The keyboard will use a Nice!Nano V2, hot-swap sockets, low-profile switches, and a custom PCB.
+This project is a wireless, sleek keyboard meant to match the Apple "Magic" Keyboard. I want it to match my dad's MacBook Pro. The keyboard will use a Nice!Nano V2, hot-swap sockets, low-profile switches, and a custom PCB designed in KiCad.
 
 https://github.com/omamated/Om-s-Keyboard/tree/main
 
@@ -9,6 +9,7 @@ I will use this keyboard with ZMK firmware, and it will connect via Bluetooth. T
 I made this because I've been using a very basic keyboard and wanted something more sleek and minimalistic. I also decided to build my own so I could learn more about PCB design and improve my skills.
 
 It will be built by first soldering the PCB, then flash the ZMK config, after it should all fit snugly in the 3d printed case, which will have heat-inserts added.
+
 ## The Process
 
 For tutorials, I used YouTube and documentation to guide me through the process.
@@ -61,7 +62,7 @@ Fully Assembeled keyboard with new CAD | Not sure why the case appears to be way
 
 | Item | Cost | Link | Store | Quantity |
 |------|------|------|-------|----------|
-| Low Profile Switches | $15 | [Link](https://mechanicalkeyboards.com/products/ttc-low-profile-blue-40g-clicky?variant=47416965202220&country=US&currency=USD&utm_medium=product_sync&utm_source=google_shopping&sku=ttc-low-profile-blue-40g-clicky) | Mechanical Keyboards | 80 |
+| Low Profile Switches | $15 | [Link](https://mechanicalkeyboards.com/products/ttc-low-profile-blue-40g-clicky?variant=47416965202220&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_conten...) | Mechanicalkeyboards | 80 |
 | Nice!NanoV2 | $25 | [Link](https://typeractive.xyz/products/nice-nano) | Typeractive | 1 |
 | Diodes | $6 | [Link](https://typeractive.xyz/products/smd-diodes) | Typeractive | 80 (only packs of ten) |
 | Custom Keyboard PCB | $30 | [JLCPCB](https://jlcpcb.com) | JLCPCB | 1 (Minimum order is 5 though) |
@@ -69,5 +70,6 @@ Fully Assembeled keyboard with new CAD | Not sure why the case appears to be way
 | Powerswitch | $1.50 | [Link](https://typeractive.xyz/products/power-switch) | Typeractive | 1 (minimum order is 2) |
 | Battery Jack | $1 | [Link](https://typeractive.xyz/products/battery-jack?variant=46024892186855) | Typeractive | 1 (minimum order is 2) |
 | Battery | $7 | [Link](https://www.aliexpress.us/item/3256809148927180.html?src=google&gatewayAdapt=glo2usa) | Aliexpress | 1 |
-| Heat inserts & screws (M2.5 should work) | $8 | [Link](https://www.aliexpress.us/item/3256804651118796.html?spm=a2g0o.productlist.main.6.54b55Sii5SiiW6&algo_pvid=d5b0a0ba-e0f0-440c-ad1b-891c6a8e0c37) | Aliexpress | 1 |
-| **Total** | **$106** | | | |
+| Case | $10 (filament) | 3D Printed | 3D print | 1 |
+| Heat inserts & screws (M2.5 should work) | $8 | [Link](https://www.aliexpress.us/item/3256804651118796.html?spm=a2g0o.productlist.main.6.54b55Sii5SiiW6&algo_pvid=d5b0a0ba-e0f0-440c-ad1b-891c6a8e9d80&algo_ex...) | Aliexpress | 1 |
+| **Total** | **$116** | | | |
