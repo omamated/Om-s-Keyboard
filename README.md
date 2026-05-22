@@ -50,7 +50,7 @@ Fully Assembeled keyboard with new CAD | Not sure why the case appears to be way
 
 
 --Zine Page---
-[Wireless "Magic" Keyboard By Om Patel (14, Texas, USA).pdf]([Uploading Wireless “Magic” Keyboard By Om Patel (14, Texas, USA).pdf…]())
+
 
 <img width="385" height="589" alt="image" src="https://github.com/user-attachments/assets/3333d90b-699a-4f4d-b08f-700737d9ace5" />
 
