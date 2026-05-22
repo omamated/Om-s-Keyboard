@@ -1,5 +1,4 @@
 
-
 This project is a wireless, sleek keyboard meant to match the Apple "Magic" Keyboard. I want it to match my dad's MacBook Pro. The keyboard will use a Nice!Nano V2, hot-swap sockets, low-profile switches, and a custom PCB.
 
 https://github.com/omamated/Om-s-Keyboard/tree/main
@@ -36,13 +35,13 @@ Final schematic
 
 I also added screw holes and made some changes with the case. V2(Made it thicker)
 
-<img width="473" height="477" alt="image" src="https://github.com/user-attachments/assets/46885a57-512a-4ea2-8e71-50b320adb522" />
+<img width="484" height="421" alt="Screenshot 2026-05-22 at 4 24 27 PM" src="https://github.com/user-attachments/assets/c35de1cc-f79b-468e-8dc5-c17fe236b1f8" />
+
+<img width="386" height="718" alt="Screenshot 2026-05-22 at 4 25 59 PM" src="https://github.com/user-attachments/assets/54c44dcc-2a13-4516-9797-307988a84822" />
 
 
  
-<img width="473" height="477" alt="image" src="https://github.com/user-attachments/assets/6c529a73-b0f1-4f40-aad9-892267134e21" />
- 
-Fully Assembeled keyboard with new CAD
+Fully Assembeled keyboard with new CAD | Not sure why the case appears to be way thinner
  
 <img width="473" height="477" alt="image" src="https://github.com/user-attachments/assets/47ce709a-c6e7-4ac4-94d8-3cf7ed7d78b5" />
 
