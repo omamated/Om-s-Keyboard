@@ -8,6 +8,7 @@ I will use this keyboard with ZMK firmware, and it will connect via Bluetooth. T
 
 I made this because I've been using a very basic keyboard and wanted something more sleek and minimalistic. I also decided to build my own so I could learn more about PCB design and improve my skills.
 
+It will be built by first soldering the PCB, then flash the ZMK config, after it should all fit snugly in the 3d printed case, which will have heat-inserts added.
 ## The Process
 
 For tutorials, I used YouTube and documentation to guide me through the process.
