@@ -35,8 +35,10 @@ Final schematic
 
 I also added screw holes and made some changes with the case. V2(Made it thicker)
 
-<img width="484" height="421" alt="Screenshot 2026-05-22 at 4 24 27 PM" src="https://github.com/user-attachments/assets/c35de1cc-f79b-468e-8dc5-c17fe236b1f8" />
 
+<img width="440" height="462" alt="image" src="https://github.com/user-attachments/assets/99038405-9d4a-4f91-a85f-bcdc691e88d0" />
+
+ 
 <img width="386" height="718" alt="Screenshot 2026-05-22 at 4 25 59 PM" src="https://github.com/user-attachments/assets/54c44dcc-2a13-4516-9797-307988a84822" />
 
 
