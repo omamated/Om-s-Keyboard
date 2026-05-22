@@ -34,16 +34,15 @@ Final schematic
 3d viewer of keyboard PCB
 <img width="688" height="429" alt="image" src="https://github.com/user-attachments/assets/321de8f3-14e8-4435-b135-67d80b080676" />
 
-I also added screw holes and made some changes with the case. V1
+I also added screw holes and made some changes with the case. V2(Made it thicker)
 
 <img width="538" height="1015" alt="image" src="https://github.com/user-attachments/assets/4c0c0826-0cdc-451e-98e2-32e42fc9eee5" />
 
 <img width="685" height="1231" alt="image" src="https://github.com/user-attachments/assets/58bb4eb2-2a5e-4209-b814-94c344764b6b" />
 
 Fully Assembeled keyboard with new CAD
-<img width="1408" height="1320" alt="image" src="https://github.com/user-attachments/assets/51456c9c-abfc-4898-9f5b-d3337170d66a" />
+<img width="473" height="477" alt="image" src="https://github.com/user-attachments/assets/47ce709a-c6e7-4ac4-94d8-3cf7ed7d78b5" />
 
-<img width="1480" height="846" alt="image" src="https://github.com/user-attachments/assets/e4cb79e2-87b8-4a14-9595-23830613cd20" />
 
 --Zine Page---
 [Wireless "Magic" Keyboard By Om Patel (14, Texas, USA)-1.pdf](https://github.com/user-attachments/files/26876961/Wireless.Magic.Keyboard.By.Om.Patel.14.Texas.USA.-1.pdf)
