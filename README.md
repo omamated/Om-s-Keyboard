@@ -1,6 +1,6 @@
 # Om's Keyboard
 
-- A custom low-profile wireless mechanical keyboard designed from scratch to match the aesthetic of the Apple Magic Keyboard while teaching me PCB design, firmware development, and CAD.
+- A custom low-profile wireless mechanical keyboard designed from scratch to match the aesthetic of the Apple Magic Keyboard while teaching me PCB design, firmware development, and CAD. I know it looks quite basic, but thats what I prefer.
 
 <img width="946" height="954" alt="image" src="https://github.com/user-attachments/assets/6f64b1db-51b0-41cc-87d5-450f53532c4e" />
 
