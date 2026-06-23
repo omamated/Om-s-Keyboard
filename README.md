@@ -1,15 +1,15 @@
 # Om's Keyboard
 
-- A custom low-profile wireless mechanical keyboard designed from scratch to match the aesthetic of the Apple Magic Keyboard while teaching me PCB design, firmware development, and CAD. I know it looks quite basic, but thats what I prefer.
+- A custom low-profile wireless mechanical keyboard designed from scratch to match the aesthetic of the Apple Magic Keyboard while teaching me PCB design, firmware development, and CAD. I know it l[...]
 
 <img width="946" height="954" alt="image" src="https://github.com/user-attachments/assets/6f64b1db-51b0-41cc-87d5-450f53532c4e" />
 
 
 ## Overview
 
-This project is a fully custom wireless keyboard built around the Nice!Nano V2 microcontroller and ZMK firmware. My goal was to create a sleek, minimal keyboard that matches my dad's MacBook Pro while also challenging myself to learn new hardware design skills.
+This project is a fully custom wireless keyboard built around the Nice!Nano V2 microcontroller and ZMK firmware. My goal was to create a sleek, minimal keyboard that matches my dad's MacBook Pro w[...]
 
-Instead of buying an existing keyboard, I decided to design every major component myself, including the PCB and enclosure. This project gave me the opportunity to learn KiCad, improve my Fusion 360 skills, and gain experience designing real hardware from scratch.
+Instead of buying an existing keyboard, I decided to design every major component myself, including the PCB and enclosure. This project gave me the opportunity to learn KiCad, improve my Fusion 36[...]
 
 The keyboard features:
 
@@ -96,7 +96,7 @@ Key components include:
 
 <img width="1079" height="555" alt="image" src="https://github.com/user-attachments/assets/0accbcf5-0325-4324-b000-15d5c2f1d6b9" />
 
-<img width="1101" height="944" alt="image" src="https://github.com/user-attachments/assets/5a898746-f43b-410e-88af-6f6d6bb0fdf2" />
+<img width="1101" height="944" alt="image" src="https://github.com/user-attachments/assets/5a898746-f43b-410e-88af-6f6d-6bb0fdf2" />
 
 ---
 
@@ -206,20 +206,20 @@ ScottO'KeeBs YouTube Channel
 
 # Bill of Materials
 
-| Item                  | Cost  | Quantity |
-| --------------------- | ----- | -------- |
-| Low Profile Switches  | $15   | 80       |
-| Nice!Nano V2          | $25   | 1        |
-| Diodes                | $6    | 80       |
-| Custom PCB            | $30   | 1        |
-| Hot-Swap Sockets      | $12   | 80       |
-| Power Switch          | $1.50 | 1        |
-| Battery Connector     | $1    | 1        |
-| Battery               | $7    | 1        |
-| 3D Printed Case       | $10   | 1        |
-| Heat Inserts & Screws | $8    | 1        |
+| Item                       | Cost      | Quantity                    |
+| -------------------------- | --------- | --------------------------- |
+| Low Profile Switches       | $15       | 80                          |
+| Nice!Nano V2               | $25       | 1                           |
+| Diodes                     | $6        | 80 (only packs of ten)      |
+| Custom Keyboard PCB        | $30       | 1 (Minimum order is 5)      |
+| Hot-swap Sockets           | $12       | 80                          |
+| Power Switch               | $1.50     | 1 (minimum order is 2)      |
+| Battery Jack               | $1        | 1 (minimum order is 2)      |
+| Battery                    | $7        | 1                           |
+| Filament for Case          | $20       | 1                           |
+| Heat Inserts & Screws      | $8        | 1 (M2.5 should work)        |
 
-**Estimated Total: $116**
+**Estimated Total: $136**
 
 ---
 
@@ -257,7 +257,7 @@ Potential future upgrades include:
 <img width="880" height="924" alt="image" src="https://github.com/user-attachments/assets/78102ffb-b26c-4a48-97cd-84f340d6c0ac" />
 
 
-<img width="946" height="954" alt="image" src="https://github.com/user-attachments/assets/79bfc1c3-bdc2-4e6f-bacd-e6ef6118c0cb" />
+<img width="946" height="954" alt="image" src="https://github.com/user-attachments/assets/79bfc1c3-bdc2-4e6f-bacd-e6ef-6118c0cb" />
 
 ### Zine Page
 
