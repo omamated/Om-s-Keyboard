@@ -1,6 +1,6 @@
 # Om's Keyboard
 
-- A custom low-profile wireless mechanical keyboard designed from scratch to match the aesthetic of the Apple Magic Keyboard while teaching me PCB design, firmware development, and CAD. I know it l[...]
+- A custom low-profile wireless mechanical keyboard designed from scratch to match the aesthetic of the Apple Magic Keyboard while teaching me PCB design, firmware development, and CAD. I know it looks pretty simple, but it took me a long time to make it.
 
 <img width="1410" height="1013" alt="image" src="https://github.com/user-attachments/assets/1a772c35-aa3a-4c91-83cf-5fce31a8f941" />
 
@@ -8,9 +8,9 @@
 
 ## Overview
 
-This project is a fully custom wireless keyboard built around the Nice!Nano V2 microcontroller and ZMK firmware. My goal was to create a sleek, minimal keyboard that matches my dad's MacBook Pro w[...]
+This project is a fully custom wireless keyboard built around the Nice!Nano V2 microcontroller and ZMK firmware. My goal was to create a sleek, minimal keyboard that matches my dad's MacBook Pro which I occasionally use.
 
-Instead of buying an existing keyboard, I decided to design every major component myself, including the PCB and enclosure. This project gave me the opportunity to learn KiCad, improve my Fusion 36[...]
+Instead of buying an existing keyboard, I decided to design every major component myself, including the PCB and enclosure. This project gave me the opportunity to learn KiCad, improve my Fusion 360, and learn ZMK firmware.
 
 The keyboard features:
 
