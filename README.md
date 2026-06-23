@@ -2,7 +2,8 @@
 
 - A custom low-profile wireless mechanical keyboard designed from scratch to match the aesthetic of the Apple Magic Keyboard while teaching me PCB design, firmware development, and CAD. I know it l[...]
 
-<img width="946" height="954" alt="image" src="https://github.com/user-attachments/assets/6f64b1db-51b0-41cc-87d5-450f53532c4e" />
+<img width="1410" height="1013" alt="image" src="https://github.com/user-attachments/assets/1a772c35-aa3a-4c91-83cf-5fce31a8f941" />
+
 
 
 ## Overview
@@ -125,9 +126,15 @@ Changes included:
 * Increased wall thickness
 * Better support for assembly
 
-<img width="880" height="924" alt="image" src="https://github.com/user-attachments/assets/bcd1a583-fac0-4b6f-8170-89b75c6518a2" />
+### Version 3 
+Made the case a whole pikachu theme, I will print this in yellow to make it something unique to me. I also added a honey comb pattern at the  bottom.
 
-<img width="772" height="1436" alt="image" src="https://github.com/user-attachments/assets/6a3d22e8-9e42-40d2-a480-fde3a9792b03" />
+<img width="1480" height="998" alt="image" src="https://github.com/user-attachments/assets/c0ed00c6-715c-4bad-bd95-37b3b0a5f2ae" />
+
+<img width="1309" height="982" alt="image" src="https://github.com/user-attachments/assets/dfae3457-c19e-4dea-8341-412ebd767087" />
+
+<img width="1402" height="1002" alt="image" src="https://github.com/user-attachments/assets/58914f88-4483-46db-9238-4138184396a1" />
+
 
 ---
 
