@@ -259,13 +259,11 @@ Potential future upgrades include:
 ### Updated Case
 
 
-<img width="880" height="924" alt="image" src="https://github.com/user-attachments/assets/dc6fc315-335a-43ac-84eb-3221bb0a22df" />
+<img width="1480" height="998" alt="image" src="https://github.com/user-attachments/assets/c0ed00c6-715c-4bad-bd95-37b3b0a5f2ae" />
 
+<img width="1309" height="982" alt="image" src="https://github.com/user-attachments/assets/dfae3457-c19e-4dea-8341-412ebd767087" />
 
-<img width="880" height="924" alt="image" src="https://github.com/user-attachments/assets/78102ffb-b26c-4a48-97cd-84f340d6c0ac" />
-
-
-<img width="946" height="954" alt="image" src="https://github.com/user-attachments/assets/79bfc1c3-bdc2-4e6f-bacd-e6ef-6118c0cb" />
+<img width="1402" height="1002" alt="image" src="https://github.com/user-attachments/assets/58914f88-4483-46db-9238-4138184396a1" />
 
 ### Zine Page
 
