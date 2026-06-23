@@ -205,6 +205,7 @@ ScottO'KeeBs YouTube Channel
 ---
 
 # Bill of Materials
+(links are in BOM.csv)
 
 | Item                       | Cost      | Quantity                    |
 | -------------------------- | --------- | --------------------------- |
