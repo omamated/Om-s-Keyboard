@@ -267,5 +267,7 @@ Potential future upgrades include:
 
 ### Zine Page
 
+Ok look, my Zine was saved in canva (under my school account), so it was hard for me to add the new case on the back side, so I hope y'all will let it slide.
+
 <img width="832" height="1260" alt="Zine_keyboard_new" src="https://github.com/user-attachments/assets/2d13a3f4-c998-4651-a3bf-6572cbfe1ac3" />
 
