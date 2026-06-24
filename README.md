@@ -267,4 +267,5 @@ Potential future upgrades include:
 
 ### Zine Page
 
-<img width="676" height="1037" alt="image" src="https://github.com/user-attachments/assets/65cedfbd-df4c-4d14-be83-a22ef5b8fe1b" />
+<img width="832" height="1260" alt="Zine_keyboard_new" src="https://github.com/user-attachments/assets/2d13a3f4-c998-4651-a3bf-6572cbfe1ac3" />
+
