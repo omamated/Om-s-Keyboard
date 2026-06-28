@@ -144,11 +144,15 @@ Potential future upgrades include:
 
 <img width="688" height="429" alt="image" src="https://github.com/user-attachments/assets/122d34c6-e81c-4522-bbc5-3073a7d218f8" />
 
+Although it is quite tight the hot-swap pocket does fit under the Nice nano, which I anticipated as per my resources.
+<img width="1893" height="1262" alt="image" src="https://github.com/user-attachments/assets/e2d5e8f2-ce83-425a-9a09-84af7f3a0ccc" />
+
 
 ### Schematic
 
 <img width="1101" height="944" alt="image" src="https://github.com/user-attachments/assets/3bda4cb3-1629-4dea-b8ad-dd5bc3fe6908" />
 
+<img width="1318" height="963" alt="image" src="https://github.com/user-attachments/assets/3775489b-a591-4bd1-bfaf-5a0984a79033" />
 
 ### Updated Case
 
